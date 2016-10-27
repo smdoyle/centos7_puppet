@@ -1,0 +1,7 @@
+--- # consul.yaml
+  artifact_url : https://ivyrepocat.mutualofomaha.com/artifactory/apps-snaphost-local/com/mutualofomaha/esc/deployment-demo/0.1-SNAPSHOT/deployment-demo-0.1-20160226.160430-16.war
+  asi : ESC
+  legacy_platform : ITG
+  role : web
+  subscribers : WEB_ESC_DEP_DEV@mutualofomaha.com
+  vm : https://clouditg.corp.mutualofomaha.com/catalog-service/api/consumer/requests/9feac5f0-3a08-4c62-9045-37020a5004cb

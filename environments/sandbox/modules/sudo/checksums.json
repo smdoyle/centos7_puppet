@@ -1,0 +1,18 @@
+{
+  "Gemfile": "e0a16f2432959563227b9efc5006a2e8",
+  "README.md": "799e94638bda54d01d6aa936ea8f3cf0",
+  "Rakefile": "f1916adc852ca7100ee6f8718dd29084",
+  "manifests/init.pp": "4b656e2556566f6a5391d22f9d726316",
+  "manifests/sudoers.pp": "00f94247e53ee0a6b3599e30e597a8f8",
+  "metadata.json": "f96653de2403d63350c65045fac3e40b",
+  "spec/acceptance/class_spec.rb": "9aa6e2e4c61569ea9cd2344134803e5e",
+  "spec/acceptance/nodesets/centos-64-x64.yml": "7ad72bad9087a52f30c6f7d5600b68dd",
+  "spec/acceptance/nodesets/default.yml": "1091bb0897dc8ee94a391ab1d8e45132",
+  "spec/acceptance/nodesets/ubuntu-server-12042-x64.yml": "1091bb0897dc8ee94a391ab1d8e45132",
+  "spec/classes/sudo_init_spec.rb": "3f262384d64e7de642395bbb7f2accee",
+  "spec/defines/sudo_sudoers_spec.rb": "e2f5000708edaf5a1d81340d4f47339a",
+  "spec/spec_helper.rb": "3ea886dd135e120afa31e0aab12e85b0",
+  "spec/spec_helper_acceptance.rb": "1d7dc16aa2c46d3c9230a10a5b400c5a",
+  "templates/sudoers.erb": "94451290bae01c48030855780ee44575",
+  "tests/init.pp": "c161eddd9fd01d601b3ac6b602ab1b67"
+}
